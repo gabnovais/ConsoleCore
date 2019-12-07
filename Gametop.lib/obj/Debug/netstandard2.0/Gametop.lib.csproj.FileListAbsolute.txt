@@ -1,0 +1,12 @@
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\bin\Debug\netstandard2.0\Gametop.lib.deps.json
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\bin\Debug\netstandard2.0\Gametop.lib.dll
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\bin\Debug\netstandard2.0\Gametop.lib.pdb
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\bin\Debug\netstandard2.0\Gametop.Interface.dll
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\bin\Debug\netstandard2.0\Gametop.Interface.pdb
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.dll
+C:\Users\Gustavo\Documents\Projetos\Consolecore\Gametop.lib\obj\Debug\netstandard2.0\Gametop.lib.pdb
